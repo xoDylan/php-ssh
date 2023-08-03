@@ -25,7 +25,7 @@ class Session extends AbstractResourceHolder
     {
         $this->configuration  = $configuration;
         $this->authentication = $authentication;
-        $this->subsystem      = array();
+        $this->subsystems      = array();
     }
 
     /**
