@@ -1,7 +1,7 @@
 PHP SSH
 =======
 
-[![Build Status](https://travis-ci.org/Herzult/php-ssh.png?branch=master)](https://travis-ci.org/Herzult/php-ssh) (master)
+[![Build Status](https://travis-ci.org/xoDylan/php-ssh.png?branch=master)](https://travis-ci.org/xoDylan/php-ssh) (master)
 
 Provides an object-oriented wrapper for the php ssh2 extension.
 
@@ -15,7 +15,7 @@ Installation
 
 The best way to add the library to your project is using [composer](http://getcomposer.org).
 
-    $ composer require herzult/php-ssh:~1.0
+    $ composer require xoDylan/php-ssh:~1.0
 
 Usage
 -----
