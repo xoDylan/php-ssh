@@ -5,6 +5,10 @@ PHP SSH
 
 Provides an object-oriented wrapper for the php ssh2 extension.
 
+## FORK
+
+Fork of [original package](https://github.com/Herzult/php-ssh) maintained by Antoine Hérault.
+
 Requirements
 ------------
 
@@ -15,7 +19,7 @@ Installation
 
 The best way to add the library to your project is using [composer](http://getcomposer.org).
 
-    $ composer require xoDylan/php-ssh:~1.0
+    $ composer require xodylan/php-ssh:~1.0
 
 Usage
 -----
